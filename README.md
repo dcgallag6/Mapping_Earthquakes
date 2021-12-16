@@ -1,4 +1,4 @@
-#Earthquakes
+# Earthquakes
 
 https://dcgallag6.github.io/Mapping_Earthquakes/
 
